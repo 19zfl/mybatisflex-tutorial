@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: mybatisflex-tutorial
+  datasource:
+    url: jdbc:mysql://localhost:3306/mybatis_flex
+    username: root
+    password: 123456
